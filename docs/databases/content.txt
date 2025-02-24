@@ -1,4 +1,4 @@
-Introduction to GitHub|/replace-with-course-id/|course|Software Development,Course||
+Introduction to GitHub|/adcf28344cdec11e1adad64d7067bc04/|course|Software Development,Course||
 Home|/|page|||
 About Us|/pages/about-us.html|page|Meta||
 Contact Us|/pages/contact-us.html|page|Meta||
